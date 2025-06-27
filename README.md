@@ -1,4 +1,4 @@
-# 🔥 Infernal Rise
+# 🔥 Infernal Rise 🔥
 
 **Infernal Rise** es un juego de plataformas 2D de acción vertical, ambientado en el corazón del Inframundo. Controla a **Kael**, un guerrero caído que debe escalar una colosal torre infernal para recuperar su humanidad, enfrentando enemigos, trampas mortales y sus propios demonios internos.
 
