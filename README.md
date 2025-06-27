@@ -35,8 +35,8 @@ A medida que avanza, Kael va recuperando fragmentos de su humanidad y desbloquea
 
 ## 👾 Enemigos y jefes
 
-- **Mortigar** – Guardián de cadenas y fuego, representa el tormento físico.  
-- **Echón** – Espectro de remordimientos, manipula ilusiones.  
+- **Azgalor, El Abrasador** – Guardián de cadenas y fuego, representa el tormento físico.  
+- **Glacior, El congelador de almas** – Golem de hielo, tan frio como este piso del infierno
 - **Almas Condenadas** – Espíritus errantes que fallaron antes que tú.
 
 ## 🎨 Arte y ambiente
