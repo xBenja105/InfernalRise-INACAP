@@ -2,7 +2,7 @@
 
 **Infernal Rise** es un juego de plataformas 2D de acción vertical, ambientado en el corazón del Inframundo. Controla a **Kael**, un guerrero caído que debe escalar una colosal torre infernal para recuperar su humanidad, enfrentando enemigos, trampas mortales y sus propios demonios internos.
 
-![Banner](https://github.com/user-attachments/assets/81ba45dc-2530-4e45-ab60-9d5879bfd503)
+![Banner](https://github.com/user-attachments/assets/ad391953-6a95-4c43-9375-215c82e7b664)
 
 ## 🕹️ Características principales
 
@@ -14,7 +14,7 @@
 - **Modo Infernal** con mecánicas únicas y dificultad elevada  
 - NPCs, diálogos, barra de carga de salto y contador de muertes
 
-![Plataformas](https://github.com/user-attachments/assets/893b45ca-4168-4655-93bb-12c3fa4080cb)
+![Plataformas](https://github.com/user-attachments/assets/71048b01-6d4c-49e8-87c9-c7da41d6d662)
 
 ## 📖 Historia
 
@@ -31,7 +31,7 @@ A medida que avanza, Kael va recuperando fragmentos de su humanidad y desbloquea
 - **Eventos**: escenas cinemáticas y ambientación dinámica.  
 - **Modo Infernal**: lava ascendente y cámara automática.
 
-![Plataformas2](https://github.com/user-attachments/assets/839987a9-dd34-442a-840d-e40f95ddeb2a)
+![Plataformas2](https://github.com/user-attachments/assets/2a131ac4-49c2-498a-8f89-d967ca8d1c76)
 
 ## 👾 Enemigos y jefes
 
@@ -39,15 +39,12 @@ A medida que avanza, Kael va recuperando fragmentos de su humanidad y desbloquea
 - **Echón** – Espectro de remordimientos, manipula ilusiones.  
 - **Almas Condenadas** – Espíritus errantes que fallaron antes que tú.
 
----
-
 ## 🎨 Arte y ambiente
 
 - Diseño visual sombrío con partículas (lluvia, meteoritos, fuego)  
 - Iluminación dinámica (antorchas, zonas oscuras, lava, efectos de cámara)  
 - Escenarios únicos: mazmorras, salas de jefe, infierno surrealista  
 - Música inmersiva y sonidos ambiente personalizados
-
 
 Autor
 Benjamin Arriagada Achavar
