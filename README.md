@@ -48,3 +48,5 @@ A medida que avanza, Kael va recuperando fragmentos de su humanidad y desbloquea
 
 Autor
 Benjamin Arriagada Achavar
+
+**Juego creado en Unity 2D a partir de Assets gratis**
