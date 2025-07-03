@@ -50,3 +50,6 @@ Autor
 Benjamin Arriagada Achavar
 
 **Juego creado en Unity 2D a partir de Assets gratis**
+
+**Trailer del juego** (Se utilizó música y con licencia)
+https://youtu.be/afYuc45jr-I?si=rK4jUOCQHUfftdo2
