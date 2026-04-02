@@ -54,5 +54,5 @@ Benjamin Arriagada Achavar
 **Link para jugar en itch.io**
 https://benja1005.itch.io/infernal-rise
 
-**Trailer del juego** (Se utilizó música y con licencia)
+**Trailer del juego** (Se utilizó música con licencia)
 https://youtu.be/afYuc45jr-I?si=rK4jUOCQHUfftdo2
